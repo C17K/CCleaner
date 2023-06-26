@@ -1,2 +1,2 @@
-# ccleaner
+# CCleaner
 Christopheryves Cleaner (FPS Booster)
